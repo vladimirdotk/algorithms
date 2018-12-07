@@ -1,0 +1,1 @@
+# Algorithms [![Build Status](https://travis-ci.com/vladimirdotk/algorithms.svg?branch=master)](https://travis-ci.com/vladimirdotk/algorithms)
