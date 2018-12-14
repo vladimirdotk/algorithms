@@ -1,7 +1,7 @@
 from typing import List
 
 
-def bubble_sort(array: List[int]) -> List[int]:
+def sort(array: List[int]) -> List[int]:
     for _ in range(len(array) - 1):
         
         was_changes = False
